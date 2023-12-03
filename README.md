@@ -1,7 +1,8 @@
 # Simple Process To Configure S3 Bucket Event Notifications For File Size Less Than 1 MB
 
 ## Architecture Diagram
-![image](https://github.com/namdev-rathod/aws-s3-event-notifications/assets/140707502/63b61c22-f044-4932-b263-abfd6fc53856)
+![S3 Bucket Event](https://github.com/namdev-rathod/aws-s3-event-notifications/assets/140707502/a2419e21-809d-4114-893a-dfc7b504865c)
+
 
 
 # SNS Topic Access Policy 
